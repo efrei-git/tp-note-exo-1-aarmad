@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Commit 3 contenu
 Commit 4 contenu
 Commit 5 contenu
+=======
+Commit 1 content
+Commit 2 content
+>>>>>>> alt
